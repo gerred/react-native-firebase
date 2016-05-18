@@ -1,1 +1,1 @@
-# firebase-react-native
+# react-native-firebase
